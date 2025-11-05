@@ -156,16 +156,16 @@ C:\Users\shrut\Desktop\MLOps-1\Labs\Airflow_Labs\Lab_1\
 | Hierarchical | Relationship analysis | Dendrogram potential |
 
 
-## Comparison with Original Lab
+# Project Features
 
-| Aspect | Original Lab | This Project |
-|--------|-------------|--------------|
-| Algorithms | 1 (K-Means) | 4 (K-Means, DBSCAN, Hierarchical, Isolation Forest) |
-| Evaluation | Elbow method | 4 comprehensive metrics |
-| Context | Academic exercise | Real-world smart city application |
-| Data | Simple CSV | Auto-generated energy patterns |
-| Output | Single model | Multiple models + JSON reports |
-| Error Handling | Basic | Comprehensive try-except blocks |
+| Aspect | This Project |
+|--------|-------------|
+| **Algorithms** | 4 (K-Means, DBSCAN, Hierarchical, Isolation Forest) |
+| **Evaluation** | 4 comprehensive metrics |
+| **Context** | Real-world smart city application |
+| **Data** | Auto-generated energy patterns |
+| **Output** | Multiple models + JSON reports |
+| **Error Handling** | Comprehensive try-except blocks |
 
 ## Troubleshooting
 
